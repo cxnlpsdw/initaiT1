@@ -15,37 +15,3 @@ Goodbye
 < See you later!
 * goodbye
 
-Hello
-* greeting
-
-< Hello World
-* greeting 
-
-Goodbye
-* goodbye
-
-< See you later!
-
-Hello
-* greeting
-
-< Hello World
-* greeting 
-
-Goodbye
-* goodbye
-
-< See you later!
-* goodbye
-
-Hello
-* greeting
-
-< Hello World
-* greeting 
-
-Goodbye
-* goodbye
-
-< See you later!
-* goodbye

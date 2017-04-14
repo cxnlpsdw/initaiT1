@@ -61,7 +61,7 @@ exports.handle = (client) => {
       // map inbound message classifications to names of streams
       // add a greeting handler with a reference to the greeting stream
       goodbye: 'goodbye',
-      greeting: 'greeting',
+      greeting: 'greeting'
     },
     streams: {
       // add a Stream for greetings and assign it a Step
