@@ -1,6 +1,6 @@
 ---
 title: sample_chat
-timestamp: 2017-04-14T20:30:33.641107107+08:00
+timestamp: 2017-04-14T20:58:46.434826661+08:00
 ---
 
 what is your name
@@ -56,3 +56,30 @@ Hi
 
 Hi
 * greeting
+
+< Hello! What can I do for you?
+* welcome
+
+Nothing
+* decline/strong
+
+< OK
+* decline/deny
+
+Hi
+* greeting
+
+Hi
+* greeting
+
+Hi
+* greeting
+
+Hi
+* greeting
+
+Hi
+* greeting
+
+< Hello. What can I do for you?
+* welcome
